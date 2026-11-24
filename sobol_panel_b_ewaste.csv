@@ -1,0 +1,4 @@
+Palanca_Politica,ST_TrapIdx,ST_Trap_CI95,ST_RAEE,ST_RAEE_CI95,ST_Equipos,ST_Eq_CI95,ST_Valoriz
+Palanca_1_Auditoria_AntiTrampa,0.2257,0.0687,0.0197,0.0061,0.0039,0.001,0.0139
+Palanca_2_Difusion_Circular,0.8825,0.1473,1.002,0.1389,0.9585,0.1369,0.9615
+Palanca_3_Reinversion_Tec,0.0,0.0,0.0027,0.0006,0.046,0.0091,0.0444
